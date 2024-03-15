@@ -37,11 +37,11 @@ h1{
 }
 
 .mouth{
-    height: 32px;
-    width: 75px;
+    height: 52px;
+    width: 85px;
     background: red;
     margin: auto;
-    margin-top: 20%;
+    margin-top: 10%;
     border: 3px pink;
     border-radius: 25px;
     display: flex;
